@@ -10,7 +10,6 @@ public class Prcticeztest {
 		System.out.println("babushahab");
 	}
 	
-	//keshray 
 	//smirti
    
 	// TODO Auto-generated method stub
