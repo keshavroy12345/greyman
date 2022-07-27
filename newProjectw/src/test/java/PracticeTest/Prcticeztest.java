@@ -7,6 +7,9 @@ public class Prcticeztest {
 	public void display() {
 		System.out.println("krishnam");
 		System.out.println("keshav");
+		System.out.println("babushahab");
+		
 	}
+	
 
 }
