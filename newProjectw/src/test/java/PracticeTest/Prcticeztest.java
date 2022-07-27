@@ -8,6 +8,9 @@ public class Prcticeztest {
 		System.out.println("krishnam");
 		System.out.println("keshav");
 		System.out.println("babushahab");
+	}
+	public void smile() {
+		System.out.println("smirti");
 		
 	}
 	
