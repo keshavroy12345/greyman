@@ -9,9 +9,10 @@ public class Prcticeztest {
 		System.out.println("keshav");
 		System.out.println("babushahab");
 	}
+	@Test
 	public void smile() {
 		System.out.println("smirti");
-		
+		System.out.println("sonu");
 	}
 	
 
